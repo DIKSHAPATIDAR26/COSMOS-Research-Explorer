@@ -1,0 +1,35 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.vite/
+.DS_Store
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
